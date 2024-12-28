@@ -22,7 +22,7 @@ python.exe -m pip install --upgrade pip beautifulsoup4 requests
 python.exe -m pip list
 
 REM Run the Python script
-python asdasd.py
+python scraper.py
 
 REM Close the command prompt after the script finishes
 pause
